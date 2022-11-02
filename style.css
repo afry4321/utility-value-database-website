@@ -1,1 +1,10 @@
-/* Main CSS page for Utility Value Website */
+/* CSS File for Utility Value Database Website */
+#welcome {
+    font-size: 150%;
+    font-weight: bold;
+    color: rgb(48, 142, 173);
+}
+
+body {
+    background-color: rgb(168, 167, 167);
+}
